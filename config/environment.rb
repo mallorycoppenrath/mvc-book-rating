@@ -1,0 +1,7 @@
+require_relative '../models/author.rb'
+require_relative '../models/book.rb'
+require_relative '../models/user.rb'
+require_relative '../models/library.rb'
+require_relative '../views/books/new.rb'
+require_relative '../controllers/books_controller.rb'
+require_relative '../controllers/authors_controller.rb'
